@@ -1,4 +1,4 @@
-# NIM-System-REST-PowerSchool-SIS-WithFiltering
+# NIM-System-REST-PowerSchool-Filtered
 PowerSchool SIS - With Filtering Option
 
 ## API Setup
